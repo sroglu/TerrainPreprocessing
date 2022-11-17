@@ -1,0 +1,2 @@
+C:\Blender\blender.exe ..\..\empty.blend --background --python .\generate_terrain_from_dted.py --python D:\Assets\Blender\Projects\scripts\lib\dted_ops_v2.py D:\Assets\Blender\Projects\scripts\resources\DTED D:\Assets\Blender\Projects\scripts\resources\TerrainModels N39.263 E32.537 N39.856 E32.943 0.5
+pause

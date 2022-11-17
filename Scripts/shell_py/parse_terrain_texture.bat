@@ -1,0 +1,1 @@
+ python.exe .\dxt_parser.py C:\Project\aircraftvr\Data\TerrainTexture dxt1 13
