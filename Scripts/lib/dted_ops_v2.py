@@ -252,7 +252,6 @@ class DTED:
 				# read elevations
 				rowdata = f.read(2 * self.num_lat)
 
-				#ERROR HERE!  TODO!
 				#_________________________________________________________________________
 				# check values with checksum
 				# (checksum is calculated in regular 2-complement)
